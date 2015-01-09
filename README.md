@@ -10,7 +10,7 @@ We decided to use C++ and Qt Quick.
 * Computer running Linux or Windows (Mac OSX was not tested)
 * git
 * C++ compiler
-* Qt libraries >= 5.1
+* Qt libraries >= 5.1, on Mint/Ubuntu: ```sudo apt-get install qt5-default qtdeclarative5-dev```
 * qmake
 
 ##Building instructions##
